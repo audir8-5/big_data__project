@@ -1,2 +1,2 @@
-# big_data__project
+# Big_data__project
 Repo for big data project
