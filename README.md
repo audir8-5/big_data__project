@@ -1,4 +1,6 @@
-# 🌦️ Smart Weather Prediction & Analytics System: https://weather-vision.onrender.com/ (may take few minutes render)
+# 🌦️ Smart Weather Prediction & Analytics System
+Deployed on : https://weather-vision.onrender.com/ 
+Note: May take few minutes render
 
 An end-to-end machine learning system for short-term weather forecasting using live environmental data.  
 The project focuses on model selection, error analysis, and real-time inference via a REST API.
